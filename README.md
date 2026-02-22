@@ -21,7 +21,7 @@ A high-performance, responsive social media analytics dashboard built with **Rea
 ---
 
 ## 🚀 Live Demo
-[**Click here to view the live app**][(https://social-dashboard-five-roan.vercel.app/)]
+[**Click here to view the live app**](https://social-dashboard-five-roan.vercel.app/)
 
 ## 🛠️ Tech Stack & Skills Demonstrated
 * **React (Hooks/State):** Efficiently managed theme and filtering states using `useState`.
